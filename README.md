@@ -14,4 +14,4 @@ sync.Pool对象池，最大化的复用请求对象，避免频繁的申请分�
 内部维护请求Context对象池（sync.Pool），减轻GC压力和减少cpu毛刺。
 超时重试机制，消除长尾链。
 
-![效果图](https://github.com/ZhaoJunfeng/EacooPHP/raw/master/image2021-4-16_16-58-51.png)
+![效果图](https://github.com/Junffzz/net-curl/blob/dev/image2021-4-16_16-58-51.png)
